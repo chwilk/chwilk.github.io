@@ -1,4 +1,6 @@
-chwilk.github.io
-================
+# chwilk.github.io
 
-It's like myspace all over again
+Bare minimum web presence achieved
+
+## Stuff I created
+[/gojumble/]
