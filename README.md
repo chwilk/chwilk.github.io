@@ -2,5 +2,4 @@
 
 Bare minimum web presence achieved
 
-## Stuff I created
-[/gojumble/]
+The site is in index.md, propagated by jekyll into html.
