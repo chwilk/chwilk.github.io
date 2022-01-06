@@ -6,4 +6,5 @@ Some stuff I write to teach myself:
 
   - [Go Jumble](/gojumble/)
   - [Python Toys](/python-toys/)
+  - [Advent of Code 2021 using Rust](/advent2021/)
 
